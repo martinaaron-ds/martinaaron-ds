@@ -7,9 +7,7 @@
 - 👀 I’m interested in new technologies that have the potential to trasform the world and make our planet a better place for future generations to live in.
 - 🌱 I’m currently learning NLP, Deep Learning.
 - 📫 How to reach me ... Email id - martinaaron.ds@gmail.com
-- This is my learning road map. Wish me luck on my learning journey.
 
-![image](https://user-images.githubusercontent.com/104844607/185080327-795f53d2-cb4b-44b2-89b0-fc9483317c9d.png)
 <!--
 **martinaaron-ds/martinaaron-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
